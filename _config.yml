@@ -2,6 +2,8 @@ theme: jekyll-theme-minimal
 title: DSI Studio Login
 description: DSI Studio Login Page
 google_analytics: G-WD1MVK5K8E
+google_tag_manager:
+  container_id: 'GTM-PFBNBSWF'
 defaults:
   - scope:
       path: "doc"
