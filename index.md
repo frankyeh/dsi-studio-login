@@ -1,6 +1,4 @@
-# DSI Studio
-
-## News
+# News
 
 
 
