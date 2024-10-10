@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+title: DSI Studio Login
+description: DSI Studio Login Page
+google_analytics: G-WD1MVK5K8E
+defaults:
+  - scope:
+      path: "doc"
+      type: pages
+    values:
+      layout: default
